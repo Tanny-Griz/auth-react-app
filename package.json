@@ -19,7 +19,7 @@
     "jsonwebtoken": "^8.5.1",
     "materialize-css": "^1.0.0-rc.2",
     "mongoose": "^5.9.4",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "react-router-dom": "^5.1.2"
   },
   "devDependencies": {
